@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Info
-permalink: /info/
+title: Resources
+permalink: /resources/
 ---
-## About Christopher Hart
-This is a new page. I'm trying to figure out what to do with it.
+### Stuff I've found
+Here are some bits that a beginning developer has found useful.
