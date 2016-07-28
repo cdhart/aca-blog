@@ -12,7 +12,6 @@ This blog was forked from the Austin Coding Academy repository at their [GitHub 
 ### About Jekyll
 This is the base Jekyll theme. You can find out more info about Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).
 
-The source code for the Jekyll new theme is at {% include icon-github.html username="jglovier" %} / [jekyll-new](https://github.com/jglovier/jekyll-new)
+The source code for the Jekyll new theme is at [jekyll-new](https://github.com/jglovier/jekyll-new).
 
-The source code for Jekyll at {% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The source code for Jekyll at [jekyll](https://github.com/jekyll/jekyll).
