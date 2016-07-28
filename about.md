@@ -1,12 +1,12 @@
----
-layout: page
-title: About
-permalink: /about/
 <head>
 <link rel="icon" 
       type="image/png"
       href="favicon-32x32.png">
 </head>
+---
+layout: page
+title: About
+permalink: /about/
 ---
 ## About Christopher Hart
 I am an artist, living in Austin, TX. I was trained as a potter and have made a number of runs at free-standing entrepreneurial projects, though none have meaningfully clicked. I presevere, nonetheless. God is good and I believe these trials are simply preparing me for a success in the offing. Getting a handle on elemental web development and computer programming is going to be key to making the most of both my art and business undertakings.
