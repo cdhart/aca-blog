@@ -5,4 +5,5 @@ permalink: /resources/
 ---
 ### Stuff I've found
 Here are some bits that a beginning developer has found useful.
-GitHub help: https://help.github.com/articles/good-resources-for-learning-git-and-github/
+<a href="https://help.github.com/articles/good-resources-for-learning-git-and-github"> GitHub help </a> 
+
