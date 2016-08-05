@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 ## Here 'we' go
 I've spent my avialable energy in the intervening time from my last post to grind on the mechanincs of getting a work flow established with GitHub. I've gpten the files to www.cdhart.com established in a functioning repository that are accessible on my desktop. I've also gotten those desktop files synced with my webhost. It's not pretty, but I've gotten things functional. 
-Now may be a good time for a GitHub tutorial to understand how this stuff is really suppoed to work. Here is this: (<a href="https://help.github.com/articles/good-resources-for-learning-git-and-github/" class="user-mention">GitHub help</a>)
+Now may be a good time for a GitHub tutorial to understand how this stuff is really suppoed to work. Here is this: <a href="https://help.github.com/articles/good-resources-for-learning-git-and-github/" class="user-mention">GitHub help</a>.
