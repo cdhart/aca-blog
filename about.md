@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## About Christopher Hart
-I am an artist, living in Austin, TX. I was trained as a potter and have made a number of runs at free-standing entrepreneurial projects, though none have meaningfully clicked. I presevere, nonetheless. God is good and I believe these trials are simply preparing me for a success in the offing. Getting a handle on elemental web development and computer programming is going to be key to making the most of both my art and business undertakings.
+I am an artist, living in Austin, TX. I was trained as a potter and have made a number of runs at free-standing entrepreneurial projects, though none have meaningfully clicked. I presevere, nonetheless. God is good and I believe these trials are simply preparing me for a success in the offing. Getting a handle on elemental web development and computer programming is going to be key to making the most of both my art and business undertakings. Visit my <a src="https://cdhart.github.io/cdh-blog/">GitHub website<a/>.
 
 ### About ACA blog
 This blog was forked from the Austin Coding Academy repository at their [GitHub page](https://github.com/AustinCodingAcademy/aca-blog). A video tutorial for setting it up is [on YouTube](https://www.youtube.com/watch?v=yuVCRylrxL0&feature=youtu.be).
