@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Still working"
+date:   2016-08-23 112:04:08 -0600
+categories: jekyll update
+---
+## Green blocks
+Coding hasn't become my second nature, yet. After some four months of "caring" about HTML, CSS and JS, this practice has yet to fully penetrate my brain. I recognize there to be the little matter of applying myself. Practice! Do! Learn! (you know?) Remembering that this blog exists is some first step to a perpetual rededicating myself to the development of this craft. I was just clicking around on some of my GitHub links, stumbled across this site and said to myself, "Oh yeah. I was doing this." 
+So far, my chief point of engagement with coding has been modifying GitHub files just enough to get a pretty, green block on my <a href="https://github.com/cdhart">GitHub home page</a>. I'm looking to stretch myself and make this new identity real. It just isn't going to happen by itself.
+I have three active projects to get this workout. One is front-burner grade. The other two will need to be developed opportunistically. The main project is an overhaul of www.sportsandmedia.com. I'm feeling my way through identity and messaging priorities, working out one chunk of code at a time. There's a larger issue of digital infrastructure for the organization. I haven't neen able to resolve any of these issues in the abstract, so I'm hoping that reacting to step-by-step development challenges will force me to clarify my thinking and action. The other two projects are at www.cdhart.com and www.landsquid.com. Those will be developed as deadlines present themselves, using the tools and ideas I stumble across in trying to focus on my main project.
