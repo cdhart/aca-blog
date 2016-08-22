@@ -9,7 +9,7 @@
 title: Christopher Hart
 email: christopher.d.hart@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  GitHub blog for Christopher Hart, artist and developer. Also, AustinCodingAcademy graduate. <a src="https://cdhart.github.io/cdh-blog/">GitHub home<a/>
+  GitHub blog for Christopher Hart, artist and developer. Also, AustinCodingAcademy graduate.
 baseurl: "/cdh-blog" # the subpath of your site, e.g. /blog
 url: "http://cdhart.github.io" # the base hostname & protocol for your site
 twitter_username: cdh_art
