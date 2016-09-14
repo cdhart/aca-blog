@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Confession"
+date:   2016-09-14 112:14:08 -0600
+categories: jekyll update
+---
+## Training
+I just asked for structure and discipline. So here's a little bit of attention to that.
+This whole GitHub project is about modifying my identity; making myself believe that I am the kind of person whose behavior conforms with that of a developer, however approximately. I imagine developers are readily familiar with this web environment. Tending to this blog, forces me to take it in, learn its rudimentary functionality and test out its capacities. I need repitions and increasingly ambitious initiative to produce "tangible" products. Good for this day.
