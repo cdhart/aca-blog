@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Confession"
+title:  "Next day"
 date:   2016-09-14 112:14:08 -0600
 categories: jekyll update
 ---
