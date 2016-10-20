@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Now hear this"
-date:   2016-20-20 112:16:08 -0600
+date:   2016-10-20 12:16:08 -0600
 categories: jekyll update
 ---
 ##Nothing's important
