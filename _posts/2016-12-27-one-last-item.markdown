@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "It was a thing..."
-date:   2017-02-15 17:41:23 -0600
+date:   2016-12-27 17:41:23 -0600
 categories: jekyll update
 ---
 ## ...but now it's not
