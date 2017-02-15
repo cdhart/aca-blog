@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Remember to good!"
-date:   2016-02-15 17:41:23 -0600
+date:   2017-02-15 17:41:23 -0600
 categories: jekyll update
 ---
 ## What I Should Have Said 
